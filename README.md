@@ -1,6 +1,6 @@
 # Bikeshare_project
 # Data Exploration on Bikeshare Data
-In this project I did data exploration for Bike share company with python. Data is from three different cities(Chicago, New York City, and Washington) of United States. The program is answers the questions below
+In this project I did data exploration for Bike share system with python. Data is from three different cities(Chicago, New York City, and Washington) of United States. The program is answers the questions below
 
 • Most popular month
 
