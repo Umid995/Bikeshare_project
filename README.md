@@ -29,3 +29,14 @@ In this project I did data exploration for Bike share company with python. Data 
 • The most common birth year amongst users (if available)
 
 Finally, the user is prompted with the choice of restarting the program or not.
+# Requirements
+python 3.6 or above
+pandas, numpy and time
+# DATA
+The DATA zip folder containes all data
+
+chicago.csv file is the dataset containing all bikeshare information for the city of Chicago.
+
+new_york_city.csv file is dataset containing all bikeshare information for the city of New York.
+
+washington.csv file is dataset containing all bikeshare information for the city of Washington  Note: This file not include the 'Gender' or 'Birth Year' data.
