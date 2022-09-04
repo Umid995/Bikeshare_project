@@ -8,7 +8,7 @@ import time
 import pandas as pd
 import numpy as np
 
-# uploding csv data files to dataframe
+# uploding csv data files 
 df = pd.read_csv(r'//Users//umidkarimov//Downloads//all-project-files//chicago.csv')
 df = pd.read_csv(r'//Users//umidkarimov/Downloads//all-project-files//new_york_city.csv')
 df = pd.read_csv(r'//Users//umidkarimov//Downloads//all-project-files//washington.csv')
