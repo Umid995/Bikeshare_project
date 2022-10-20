@@ -30,9 +30,9 @@ In this project I did data exploration for Bike share system with python. Data i
 
 Finally, the user is prompted with the choice of restarting the program or not.
 # Requirements
-python 3.6 or above
+python 3 or above
 
-pandas, numpy and time libraries
+pandaslibrary and time module
 # DATA
 The DATA zip folder containes all data
 
