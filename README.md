@@ -32,7 +32,7 @@ Finally, the user is prompted with the choice of restarting the program or not.
 # Requirements
 python 3 or above
 
-pandaslibrary and time module
+pandas library and time module
 # DATA
 The DATA zip folder containes all data
 
